@@ -1,0 +1,32 @@
+.scroller-2LSbBU {
+  position: relative;
+  top: -48px;
+  height: 89vh;
+  &::-webkit-scrollbar-track {
+    margin-top: 48px;
+    background-color: var(--bg-secondary);
+    &::-webkit-scrollbar-thumb {
+      background-color: var(--bg-secondary-alt);
+    }
+  }
+}
+.scrollerContent-WzeG7R {
+  margin-bottom: 55px;
+}
+.container-1r6BKw {
+  background-color: transparent;
+}
+.channelTextArea-rNsIhG {
+  .scrollableContainer-2NUZem {
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    backdrop-filter: blur(var(--message-field-blur));
+    background-color: var(--bg-secondary-glas);
+    border: 1px solid var(--border-glas);
+  }
+  background-color: transparent;
+}
+.container-1r6BKw.themed-ANHk51 {
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  background-color: transparent;
+  backdrop-filter: blur(var(--header-blur));
+}

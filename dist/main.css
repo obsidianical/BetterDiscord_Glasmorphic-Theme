@@ -1,0 +1,30 @@
+/**
+ * @name PluginOrThemeName
+ * @version 0.0.1
+ * @description Just a simple description of the content that may
+ * end up being pretty long
+ * 
+ * @website http://twitter.com/BandagedBD
+ */
+:root {
+  --bg-primary: #4a4a55;
+  --bg-primary-glas: #4a4a55af;
+  --message-field-blur: 10px; }
+
+.scroller-2LSbBU {
+  height: 100vh; }
+
+.scrollerContent-WzeG7R {
+  margin-bottom: 168px; }
+
+.container-1r6BKw {
+  background-color: transparent; }
+
+.channelTextArea-rNsIhG {
+  background-color: transparent; }
+  .channelTextArea-rNsIhG .scrollableContainer-2NUZem {
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    backdrop-filter: blur(var(--message-field-blur));
+    background-color: var(--bg-primary-glas); }
+
+/*# sourceMappingURL=main.css.map */
