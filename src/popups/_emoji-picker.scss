@@ -1,0 +1,19 @@
+.contentWrapper-SvZHNd {
+  background-color: var(--bg-secondary);
+}
+  .inspector-S2gM3e {
+    position: relative;
+    bottom: 48px;
+    background-color: var(--bg-tertiary-glas) !important;
+    backdrop-filter: blur(10px);
+    opacity: 1;
+  }
+  .scroller-3gAZLs,.emojiPickerListWrapper-fz8KNK {
+    height: 348px !important;
+  backdrop-filter: blur(var(--popup-backdrop-blur));
+  }
+  .header-ywPcAE {
+    background-color: transparent;
+  }
+
+  // Fix the entire emoji picker its painful
